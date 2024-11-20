@@ -2,6 +2,10 @@
 
 **Instrapound** is a Flutter-based mobile application designed with modern technologies and libraries to enhance the user experience. It includes features like OTP validation, MongoDB integration, and customizable UI components. This project demonstrates the capabilities of Flutter alongside backend support to deliver a powerful and user-friendly application.
 
+## Warning
+
+If you are having trouble with Email-OTP, you might need to use a VPN.
+
 ## Features
 
 ### 1. **OTP Integration**
@@ -100,3 +104,7 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
 
 - Thanks to the Flutter community for extensive resources and support.
 - Special thanks to the contributors of the libraries used, making development faster and more efficient.
+
+## Contacts
+
+Email - decency.9991@gmail.com
