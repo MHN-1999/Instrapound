@@ -107,7 +107,7 @@ class SignUpCaptchaPage extends StatelessWidget {
                         Colors.deepPurple,
                         Colors.orange
                       ],
-                      caseSensitive: false,
+                      caseSensitive: true,
                       codeExpireAfter: const Duration(minutes: 10),
                     ),
                   );
